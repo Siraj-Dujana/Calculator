@@ -30,11 +30,7 @@ This is a responsive and functional calculator built using pure HTML, CSS, and J
 
 ---
 
-## 📸 Preview
-
-![Calculator Screenshot](screenshot.png)
-
-> _Tip: Add a screenshot named `screenshot.png` to your project directory to display it here._
+# Demo Live
 
 ---
 

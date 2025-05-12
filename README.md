@@ -31,7 +31,7 @@ This is a responsive and functional calculator built using pure HTML, CSS, and J
 ---
 
 # Demo Live
-
+Link:  https://siraj-dujana.github.io/Calculator/
 ---
 
 ## 📄 License
